@@ -1,0 +1,16 @@
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/clean-test-results.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/rosbuild_precompile.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/rospack_genmsg.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/rospack_genmsg_libexe.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/rospack_gensrv.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/teleop_pr2_arms_keyboard.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/test.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/test-future.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/test-results.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/test-results-run.dir
+/home/ashok/fuerte_workspace/billiards/teleop_arms/build/CMakeFiles/tests.dir

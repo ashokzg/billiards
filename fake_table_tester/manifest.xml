@@ -1,0 +1,17 @@
+<package>
+  <description brief="fake_table_tester">
+
+     fake_table_tester
+
+  </description>
+  <author>Ashok</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/fake_table_tester</url>
+  <depend package="rospy"/>
+  <depend package="billiards_msgs"/>
+  <depend package="billiards_planner"/>
+
+</package>
+
+

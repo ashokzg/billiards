@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -g     -pthread CMakeFiles/teleop_pr2_arms_keyboard.dir/src/teleop_pr2_arms_keyboard.o  -o ../teleop_pr2_arms_keyboard -rdynamic -L/opt/ros/fuerte/lib -lroscpp -lrostime -lrosconsole -lroscpp_serialization -lxmlrpcpp -Wl,-rpath,/opt/ros/fuerte/lib 
